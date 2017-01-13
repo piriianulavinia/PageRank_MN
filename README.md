@@ -6,8 +6,10 @@ PageRank computes the principal eigenvector of the matrix describing the hyperli
 
 ----Alexandra----
 tema.m -algoritm de baza 
+
 ----Luiza-------
 Table.m -afisare matrice
+
 ----Mircea------ 
 figuremain.m - interfata 
 MN.m - interfata
